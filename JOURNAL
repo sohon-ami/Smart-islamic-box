@@ -1,0 +1,9 @@
+
+
+2025-12-06:
+
+Today I spent about three hours working on the Smart Islami Box project. I started by createing a 3D STL case with blender. The case is 24.7 cm by 10.7 cm
+by 10.2 cm so that all the components, including the Raspberry Pi,three servos, RTC module, speaker, and LED strip, would fit inside. After that, 
+I made some small adjustments like makeing the tower to give the case a more real look. I exported it as STL to use it in the project and also took a 
+screenshot of the STL to include in the README. While working, I realized that choosing the right size was very important tomake sure everything fits properly.
+I’m happy with the design and feel like it’s a good start.
